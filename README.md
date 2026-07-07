@@ -1,5 +1,7 @@
 <h1 align="center">awesome-ceo-stack</h1>
 
+<p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
+
 <p align="center">
   <b>A curated stack of Claude / OpenClaw agent skills for founders &amp; CEOs.</b><br>
   Ship a product promo video, stand up an enterprise knowledge base, generate investor-grade decks,
