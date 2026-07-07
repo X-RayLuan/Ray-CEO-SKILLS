@@ -1,6 +1,0 @@
-[submodule "ceo-skill/OpenClaw-Enterprise-Knowledge-Base-Skill"]
-	path = ceo-skill/OpenClaw-Enterprise-Knowledge-Base-Skill
-	url = https://github.com/X-RayLuan/OpenClaw-Enterprise-Knowledge-Base-Skill.git
-[submodule "ceo-skill/Openclaw-Study-Coach"]
-	path = ceo-skill/Openclaw-Study-Coach
-	url = https://github.com/X-RayLuan/Openclaw-Study-Coach.git

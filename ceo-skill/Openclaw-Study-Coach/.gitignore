@@ -1,0 +1,60 @@
+# Privacy: 真实学习数据不进 git
+# ====================================
+# 整个 data/ 默认 ignore,只保留模板和 trends.csv 表头
+
+data/homework/inbox/*
+data/homework/parsed/*
+data/homework/done/*
+data/mistakes/inbox/*
+data/mistakes/subjects/*/*
+data/mistakes/review_queue/*
+data/plans/weekly/*
+data/plans/daily/*
+data/reports/daily/*
+data/reports/weekly/*
+data/parent-playbook/daily/*
+data/parent-playbook/weekend/*
+data/points/log.jsonl
+data/profile/strengths_archive/*
+data/memorization/queue.jsonl
+data/memorization/mastered.jsonl
+
+# 保留这些(占位 / 模板)
+!data/**/.gitkeep
+!data/reports/trends/trends.csv
+!data/profile/weakness-profile.md
+!data/profile/strengths.md
+!data/profile/interests.md
+
+# 资源文件夹的占位保留,具体图片不传
+assets/screenshots/*
+assets/attachments/*
+!assets/**/.gitkeep
+
+# 日志 / 内存(可能含对话痕迹)
+logs/*
+memory/*
+!logs/.gitkeep
+!memory/.gitkeep
+
+# OS 垃圾
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python(如果你以后加脚本)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node(如果你以后加脚本)
+node_modules/
+
+# 临时文件
+*.tmp
+*.bak
+*~

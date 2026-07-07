@@ -1,0 +1,5 @@
+interface:
+  display_name: "OpenClaw Enterprise KB"
+  short_description: "Build and validate agent-ready enterprise knowledge bases for OpenClaw."
+  default_prompt: "Use $openclaw-enterprise-knowledge-base to create or audit an OpenClaw-ready enterprise knowledge base with ontology metadata, action governance, and a hot.md startup cache."
+
