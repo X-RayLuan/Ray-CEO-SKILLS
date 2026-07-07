@@ -80,6 +80,7 @@
 | **Openclaw-Study-Coach** | 学习辅导与教育型 AI skill | K-12 辅导、家长陪伴、训练型 workflow |
 | **openclaw-ppt-skill** | 单文件 HTML 演讲 deck / 配图 / 封面 | 产品发布、CEO 分享、方法论表达 |
 | **Openclaw-Product-Branding-Skill** | 产品品牌视频与传播素材生成 | UI 转 promo video、产品传播、品牌展示 |
+| **cornerstone-smart-agent** | 提案型咨询 agent 与方案交付工作流 | 客户提案、培训咨询、领导力项目、HTML 转 PPT |
 
 未来适合继续加入的方向:
 
@@ -104,6 +105,7 @@
 - **知识库能力** → 先看 `OpenClaw-Enterprise-Knowledge-Base-Skill`
 - **演讲 / deck / 发布表达** → 先看 `openclaw-ppt-skill`
 - **产品品牌视频 / 宣传内容** → 先看 `Openclaw-Product-Branding-Skill`
+- **客户提案 / 咨询方案 / 培训交付** → 先看 `cornerstone-smart-agent`
 - **教育 / 辅导 /训练型 workflow** → 先看 `Openclaw-Study-Coach`
 
 ### 方式三:把它当 CEO OS 目录
@@ -131,6 +133,7 @@ Ray-CEO-SKILLS/
     ├── OpenClaw-Enterprise-Knowledge-Base-Skill/
     ├── Openclaw-Product-Branding-Skill/
     ├── Openclaw-Study-Coach/
+    ├── cornerstone-smart-agent/
     └── openclaw-ppt-skill/
 ```
 

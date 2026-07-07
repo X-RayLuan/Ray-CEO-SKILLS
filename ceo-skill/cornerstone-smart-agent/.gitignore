@@ -1,0 +1,17 @@
+.DS_Store
+.openclaw/
+.tmp/
+tmp_bmwthumb/
+
+# Generated proposal artifacts
+*.pptx
+*.pdf
+*.xlsx
+*.docx
+*.rtf
+deck.html
+deck_taobao_intro.html
+ABB集团电子电器企业部中国区_高潜力新员工发展项目_20260603.html
+
+# Local scratch
+~$*
