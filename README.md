@@ -16,11 +16,19 @@ This repo is a home for:
 
 You can organize this repo over time with folders like:
 
+- `ceo-skill/`
 - `strategy/`
 - `leadership/`
 - `operations/`
 - `communication/`
 - `playbooks/`
+
+## Included Skills
+
+Currently collected in `ceo-skill/`:
+
+- `OpenClaw-Enterprise-Knowledge-Base-Skill`
+- `Openclaw-Study-Coach`
 
 ## Next Steps
 
