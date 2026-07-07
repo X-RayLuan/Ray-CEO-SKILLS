@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Web Deck — an awesome-ceo-stack agent skill" width="820"></p>
+
 # OpenClaw PPT Skill · 网页 PPT / 配图 / 封面
 
 ![GitHub stars](https://img.shields.io/github/stars/X-RayLuan/openclaw-ppt-skill?style=flat-square)

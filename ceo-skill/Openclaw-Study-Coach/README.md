@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Study Coach — an awesome-ceo-stack agent skill" width="820"></p>
+
 <div align="center">
 
 # Openclaw Study Coach

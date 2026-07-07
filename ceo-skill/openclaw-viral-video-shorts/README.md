@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Viral Video Shorts — an awesome-ceo-stack agent skill" width="820"></p>
+
 <!-- LANGS -->
 **English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Español](README.es.md)
 

@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Enterprise Knowledge Base — an awesome-ceo-stack agent skill" width="820"></p>
+
 <div align="center">
 
 # OpenClaw Enterprise Knowledge Base Skill
