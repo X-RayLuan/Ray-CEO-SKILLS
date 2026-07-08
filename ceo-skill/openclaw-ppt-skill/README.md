@@ -25,11 +25,11 @@
 
 **旧主题 · Style A 电子杂志风**
 
-![Style A 电子杂志风效果展示](https://github.com/user-attachments/assets/5dc316a2-401c-4e37-9123-ea081b6ae470)
+![Style A 电子杂志风效果展示](assets/previews/style-a-editorial.png)
 
 **新主题 · Style B 瑞士国际主义**
 
-![Style B 瑞士国际主义效果展示](https://github.com/user-attachments/assets/8960e78c-69bb-4b7e-aa95-6fad64b70314)
+![Style B 瑞士国际主义效果展示](assets/previews/style-b-swiss.png)
 
 ## 30 秒开始
 
@@ -271,11 +271,11 @@ openclaw-ppt-skill/
 
 | 预览 | 主题 | 核心色与适合场景 |
 |------|------|------------------|
-| <img src="https://github.com/user-attachments/assets/df21dbcb-5fe4-4852-a91a-a9cf00aceeb4" width="260" alt="墨水经典主题预览"> | 🖋 **墨水经典** | `#0a0a0b` / `#f1efea`。通用默认、商业发布、不知道选啥时最稳。 |
-| <img src="https://github.com/user-attachments/assets/99ce0fd2-72a6-4368-a75a-a8e21657a537" width="260" alt="靛蓝瓷主题预览"> | 🌊 **靛蓝瓷** | `#0a1f3d` / `#f1f3f5`。科技、研究、AI、技术发布会。 |
-| <img src="https://github.com/user-attachments/assets/bcc1cc4c-5e8e-4467-ae8d-f5801ae73657" width="260" alt="森林墨主题预览"> | 🌿 **森林墨** | `#1a2e1f` / `#f5f1e8`。自然、可持续、文化、非虚构内容。 |
-| <img src="https://github.com/user-attachments/assets/dfea080e-e916-417e-93cd-0a3628de84ca" width="260" alt="牛皮纸主题预览"> | 🍂 **牛皮纸** | `#2a1e13` / `#eedfc7`。怀旧、人文、阅读、历史、文学分享。 |
-| <img src="https://github.com/user-attachments/assets/f3705592-9a72-4dbc-9818-df3aea61bc75" width="260" alt="沙丘主题预览"> | 🌙 **沙丘** | `#1f1a14` / `#f0e6d2`。艺术、设计、创意、时尚和画廊感内容。 |
+| <img src="assets/previews/ink-classic.png" width="260" alt="墨水经典主题预览"> | 🖋 **墨水经典** | `#0a0a0b` / `#f1efea`。通用默认、商业发布、不知道选啥时最稳。 |
+| <img src="assets/previews/indigo-porcelain.png" width="260" alt="靛蓝瓷主题预览"> | 🌊 **靛蓝瓷** | `#0a1f3d` / `#f1f3f5`。科技、研究、AI、技术发布会。 |
+| <img src="assets/previews/forest-ink.png" width="260" alt="森林墨主题预览"> | 🌿 **森林墨** | `#1a2e1f` / `#f5f1e8`。自然、可持续、文化、非虚构内容。 |
+| <img src="assets/previews/kraft-paper.png" width="260" alt="牛皮纸主题预览"> | 🍂 **牛皮纸** | `#2a1e13` / `#eedfc7`。怀旧、人文、阅读、历史、文学分享。 |
+| <img src="assets/previews/dune.png" width="260" alt="沙丘主题预览"> | 🌙 **沙丘** | `#1f1a14` / `#f0e6d2`。艺术、设计、创意、时尚和画廊感内容。 |
 
 切换主题只需替换 `template.html` 开头 `:root{}` 里的 6 行变量,其他 CSS 全走 `var(--...)`。
 
@@ -285,10 +285,10 @@ openclaw-ppt-skill/
 
 | 预览 | 主题 | 锚点色与适合场景 |
 |------|------|------------------|
-| <img src="https://github.com/user-attachments/assets/c02d02f7-ce6f-4e16-b8a6-778c96851f94" width="260" alt="克莱因蓝瑞士主题预览"> | 🔵 **克莱因蓝 IKB** | `#002FA7`。通用默认、商业发布、AI 产品、方法论。 |
-| <img src="https://github.com/user-attachments/assets/c310a8c4-5d28-450e-b49a-6ac5b6ba4785" width="260" alt="柠檬黄瑞士主题预览"> | 🟡 **柠檬黄** | `#FFD500`。年轻、运动、零售、消费品、Y2K 复古。 |
-| <img src="https://github.com/user-attachments/assets/65f7b3f9-3358-419e-b513-f7f2cc24ec76" width="260" alt="柠檬绿瑞士主题预览"> | 🟢 **柠檬绿** | `#C5E803`。生态、可持续、健康、Z 世代品牌。 |
-| <img src="https://github.com/user-attachments/assets/9c3319c9-a134-4657-9a56-211c23411f7f" width="260" alt="安全橙瑞士主题预览"> | 🟠 **安全橙** | `#FF6B35`。警示、新闻、工业、运动、活力主题。 |
+| <img src="assets/previews/swiss-ikb.png" width="260" alt="克莱因蓝瑞士主题预览"> | 🔵 **克莱因蓝 IKB** | `#002FA7`。通用默认、商业发布、AI 产品、方法论。 |
+| <img src="assets/previews/swiss-lemon-yellow.png" width="260" alt="柠檬黄瑞士主题预览"> | 🟡 **柠檬黄** | `#FFD500`。年轻、运动、零售、消费品、Y2K 复古。 |
+| <img src="assets/previews/swiss-lemon-green.png" width="260" alt="柠檬绿瑞士主题预览"> | 🟢 **柠檬绿** | `#C5E803`。生态、可持续、健康、Z 世代品牌。 |
+| <img src="assets/previews/swiss-safety-orange.png" width="260" alt="安全橙瑞士主题预览"> | 🟠 **安全橙** | `#FF6B35`。警示、新闻、工业、运动、活力主题。 |
 
 如果用户说"瑞士风 PPT"但没有指定颜色,默认推荐克莱因蓝 IKB。
 
